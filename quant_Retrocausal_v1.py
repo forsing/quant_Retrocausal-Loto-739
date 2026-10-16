@@ -31,9 +31,9 @@ import numpy as np
 
 
 DEFAULTS = [
-    "/Users/4c/Desktop/GHQ/data/loto7_4702_k82.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4702_k82_loto_2973.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4702_k82_loto_plus_1729.csv",
+    "data/loto7_4702_k82.csv",
+    "/data/loto7_4702_k82_loto_2973.csv",
+    "/data/loto7_4702_k82_loto_plus_1729.csv",
 ]
 
 TRAIN = 192
@@ -864,7 +864,7 @@ Razlicitih predloga: 64/64; istorijskih: 0/64
 Kopija poslednjeg kola: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 0
-NEXT red 4703: 7,10,21,22,25,28,31
+NEXT red 4703: 7,x,21,y,25,z,31
 Postoji u istoriji: False
 Najduzi niz: 2; 1..19: 2
 Povratna provera nije poboljsala rezultat pri istoj regularizaciji.
@@ -892,7 +892,7 @@ Razlicitih predloga: 63/64; istorijskih: 0/64
 Kopija poslednjeg kola: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 0
-NEXT red 2974: 5,6,9,22,25,26,37
+NEXT red 2974: 5,x,9,y,25,z,37
 Postoji u istoriji: False
 Najduzi niz: 2; 1..19: 3
 
@@ -919,7 +919,7 @@ Razlicitih predloga: 64/64; istorijskih: 0/64
 Kopija poslednjeg kola: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 0
-NEXT red 1730: 4,5,11,12,32,33,34
+NEXT red 1730: 4,x,11,y,32,z,34
 Postoji u istoriji: False
 Najduzi niz: 3; 1..19: 4
 Povratna provera nije poboljsala rezultat pri istoj regularizaciji.
